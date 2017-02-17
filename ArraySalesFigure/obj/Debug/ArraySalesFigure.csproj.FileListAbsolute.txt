@@ -1,0 +1,5 @@
+C:\Users\Patri\OneDrive\CSProjects\ArraySalesFigure\ArraySalesFigure\bin\Debug\ArraySalesFigure.exe.config
+C:\Users\Patri\OneDrive\CSProjects\ArraySalesFigure\ArraySalesFigure\bin\Debug\ArraySalesFigure.exe
+C:\Users\Patri\OneDrive\CSProjects\ArraySalesFigure\ArraySalesFigure\bin\Debug\ArraySalesFigure.pdb
+C:\Users\Patri\OneDrive\CSProjects\ArraySalesFigure\ArraySalesFigure\obj\Debug\ArraySalesFigure.exe
+C:\Users\Patri\OneDrive\CSProjects\ArraySalesFigure\ArraySalesFigure\obj\Debug\ArraySalesFigure.pdb
